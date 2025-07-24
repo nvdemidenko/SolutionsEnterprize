@@ -9,7 +9,7 @@ import static com.codeborne.selenide.DragAndDropOptions.to;
 import static com.codeborne.selenide.Selectors.*;
 import static com.codeborne.selenide.Selenide.*;
 
-public class SolutionsEnterprize {
+public class SolutionsEnterprise {
     @BeforeAll
     static void browserSetUp() {
         Configuration.pageLoadStrategy = "eager";
